@@ -44,8 +44,8 @@
 26        android:debuggable="true"
 27        android:icon="@mipmap/ic_launcher"
 27-->C:\Users\Alpha\Downloads\my_money_dream_final\my_money_dream_final\android\app\src\main\AndroidManifest.xml:6:9-43
-28        android:label="MyMoneyDream" >
-28-->C:\Users\Alpha\Downloads\my_money_dream_final\my_money_dream_final\android\app\src\main\AndroidManifest.xml:5:9-37
+28        android:label="MyMoneyPlan" >
+28-->C:\Users\Alpha\Downloads\my_money_dream_final\my_money_dream_final\android\app\src\main\AndroidManifest.xml:5:9-36
 29        <activity
 29-->C:\Users\Alpha\Downloads\my_money_dream_final\my_money_dream_final\android\app\src\main\AndroidManifest.xml:7:9-35:20
 30            android:name="com.example.expense.MainActivity"

@@ -2,7 +2,7 @@
     package="com.example.expense">
       <uses-permission android:name="android.permission.USE_FINGERPRINT"/>
    <application
-        android:label="MyMoneyDream"
+        android:label="MyMoneyPlan"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

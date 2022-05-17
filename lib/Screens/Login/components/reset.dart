@@ -51,7 +51,7 @@ class _ResetScreenState extends State<ResetScreen> {
                         child: TextFormField(
                           keyboardType: TextInputType.emailAddress,
                           decoration: textInputDecoration.copyWith(
-                            hintText: 'email address',
+                            hintText: 'Enter Your Email address',
                           ),
                           validator: (val) => val!.isEmpty
                               ? 'Enter a valid email address'
@@ -62,7 +62,7 @@ class _ResetScreenState extends State<ResetScreen> {
                         ),
                       ),
                       SizedBox(
-                        height: 20.0,
+                        height: 11.0,
                       ),
                       Row(
                         mainAxisAlignment: MainAxisAlignment.spaceAround,
@@ -70,7 +70,7 @@ class _ResetScreenState extends State<ResetScreen> {
                           RaisedButton(
                             color: Colors.blue,
                             shape: RoundedRectangleBorder(
-                                borderRadius: BorderRadius.circular(30.0)),
+                                borderRadius: BorderRadius.circular(22.0)),
                             child: Text(
                               'Reset',
                               style: TextStyle(color: Colors.white),

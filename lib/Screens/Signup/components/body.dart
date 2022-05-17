@@ -72,7 +72,7 @@ class _Register extends State<Register> {
                                 color: Colors.white,
                                 fontSize: 15.0,
                               ),
-                              labelText: 'Name',
+                              labelText: 'Your Full Name',
                               border: OutlineInputBorder(
                                   borderRadius: BorderRadius.circular(18),
                                   borderSide: new BorderSide())),

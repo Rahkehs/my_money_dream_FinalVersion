@@ -52,13 +52,13 @@ class _SignIn extends State<SignIn> {
                       child: Column(
                         children: <Widget>[
                           Image.asset(
-                            "assets/images/login.png",
+                            "assets/images/userpic.png",
                             width: 200,
                           ),
                           SizedBox(height: 20.0),
                           TextFormField(
                             decoration: textInputDecoration.copyWith(
-                              hintText: 'email address',
+                              hintText: ' Email address',
                             ),
                             validator: (val) =>
                                 val!.isEmpty ? 'Enter an email' : null,
@@ -70,7 +70,7 @@ class _SignIn extends State<SignIn> {
                           TextFormField(
                             obscureText: true,
                             decoration: textInputDecoration.copyWith(
-                                hintText: 'password'),
+                                hintText: ' Password'),
                             validator: (val) => val!.length < 6
                                 ? 'Enter a password 6+ chars long'
                                 : null,

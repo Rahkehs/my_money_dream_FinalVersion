@@ -142,7 +142,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Al
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] C:\Users\Alpha\.gradle\caches\transforms-2\files-2.1\e45340d464f7f3aff0f2e48db64a1d02\core-1.6.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from C:\Users\Alpha\Downloads\my_money_dream_final\my_money_dream_final\android\app\src\main\AndroidManifest.xml:5:9-37
+		ADDED from C:\Users\Alpha\Downloads\my_money_dream_final\my_money_dream_final\android\app\src\main\AndroidManifest.xml:5:9-36
 	android:icon
 		ADDED from C:\Users\Alpha\Downloads\my_money_dream_final\my_money_dream_final\android\app\src\main\AndroidManifest.xml:6:9-43
 activity#com.example.expense.MainActivity
