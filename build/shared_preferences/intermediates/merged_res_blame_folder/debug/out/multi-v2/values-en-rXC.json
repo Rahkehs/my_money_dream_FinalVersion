@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Alpha\\Downloads\\my_money_dream_final\\my_money_dream_final\\build\\shared_preferences\\intermediates\\res\\merged\\debug\\values-en-rXC\\values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Alpha\\.gradle\\caches\\transforms-2\\files-2.1\\e45340d464f7f3aff0f2e48db64a1d02\\core-1.6.0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "203",
+                        "endOffsets": "254"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Alpha\\Downloads\\my_money_dream_final\\my_money_dream_final\\build\\shared_preferences\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rXC\\values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Alpha\\.gradle\\caches\\transforms-2\\files-2.1\\e45340d464f7f3aff0f2e48db64a1d02\\core-1.6.0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "203",
+                        "endOffsets": "254"
+                    }
+                }
+            ]
+        }
+    ]
+}

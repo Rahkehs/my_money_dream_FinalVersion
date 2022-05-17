@@ -1,0 +1,7 @@
+#Tue May 17 22:34:25 AEST 2022
+base.1=C\:\\Users\\Alpha\\Downloads\\my_money_dream_final\\my_money_dream_final\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
+path.1=classes2.dex
+base.0=C\:\\Users\\Alpha\\Downloads\\my_money_dream_final\\my_money_dream_final\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

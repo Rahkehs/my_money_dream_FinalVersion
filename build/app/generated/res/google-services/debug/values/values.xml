@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">283091507158-b7dskkk7vb1uj0tpkhh5uktdp14u6nn1.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">283091507158</string>
+    <string name="google_api_key" translatable="false">AIzaSyBTfe-sDHCYJvOmZilstvwdtHqJrgUEkg4</string>
+    <string name="google_app_id" translatable="false">1:283091507158:android:f311c26f1e14a8cf72f677</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBTfe-sDHCYJvOmZilstvwdtHqJrgUEkg4</string>
+    <string name="google_storage_bucket" translatable="false">my-money-app-2c0bc.appspot.com</string>
+    <string name="project_id" translatable="false">my-money-app-2c0bc</string>
+</resources>
