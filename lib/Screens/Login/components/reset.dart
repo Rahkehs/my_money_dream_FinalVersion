@@ -8,7 +8,6 @@ class ResetScreen extends StatefulWidget {
 }
 
 class _ResetScreenState extends State<ResetScreen> {
-  late String _email;
   final auth = FirebaseAuth.instance;
   final _formKey = GlobalKey<FormState>();
   late String email;
@@ -78,7 +77,7 @@ class _ResetScreenState extends State<ResetScreen> {
                             onPressed: () async {
                               if (_formKey.currentState!.validate()) {
                                 dynamic result =
-                                    auth.sendPasswordResetEmail(email: _email);
+                                    auth.sendPasswordResetEmail(email: email);
                                 Navigator.of(context).pop();
                                 if (result == null) {
                                   setState(() {
